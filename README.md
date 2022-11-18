@@ -6,6 +6,8 @@ Due to the lack of a compiled release of the [original sidder application](https
 ## To be added later
 - Context menu for interacting with UPD. Example action: open file path or mount UPD
 - See if there is another way to find the user assigned to the UPD based on ACL or something else
+- Export Options
+- Different options for how the file size displays (ex kb, mb, gb)
 
 ## Known issues
 - Column cell value sorting via clicking column header doesn't sort last modified or file size columns correctly
